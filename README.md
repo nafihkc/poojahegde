@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="pooja hegde Logo">
+
 </p>
 <h1 align="center">
   <b>Pooja hegde Bot</b>
