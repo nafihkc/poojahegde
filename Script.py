@@ -15,7 +15,7 @@ class script(object):
 - ᴘᴏᴏᴊᴀ ʜᴇɢᴅᴇ ɪs ɴᴏᴛ ᴀ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. 
  
 <b>ᴅᴇᴠs:</b>
-- <a href=https://t.me/Gw_links></a>ᴛᴇᴀᴍ ɢᴡʟɪɴᴋs</a>"""
+- <a href=https://t.me/Gw_links>ᴛᴇᴀᴍ ɢᴡʟɪɴᴋs</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Pooja hegde will respond whenever a keyword is found the message
