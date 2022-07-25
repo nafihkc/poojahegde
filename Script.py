@@ -14,6 +14,7 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 - ᴘᴏᴏᴊᴀ ʜᴇɢᴅᴇ ɪs ɴᴏᴛ ᴀ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. 
 
+
 <b>ᴅᴇᴠs:</b>
 - <a href=https://t.me/Gw_links></a>ᴛᴇᴀᴍ ɢᴡʟɪɴᴋs"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
