@@ -13,8 +13,7 @@ class script(object):
 ✯ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: v1.0.1 [ ʙᴇᴛᴀ ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - ᴘᴏᴏᴊᴀ ʜᴇɢᴅᴇ ɪs ɴᴏᴛ ᴀ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. 
- ᴊᴏɪɴ ᴏᴜʀ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/Gw_links></a>ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ"""
-
+ 
 <b>ᴅᴇᴠs:</b>
 - <a href=https://t.me/Gw_links></a>ᴛᴇᴀᴍ ɢᴡʟɪɴᴋs</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
