@@ -5,18 +5,17 @@ class script(object):
     HELP_TXT = """ʜᴇʟʟᴏ {}
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs."""
     ABOUT_TXT = """✯ ᴍʏ ɴᴀᴍᴇ: {}
-✯ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/TeamEvamaria>ᴛᴇᴀᴍ ᴇᴠᴀ ᴍᴀʀɪᴀ</a>
+✯ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/althafser>ᴀʟᴛʜᴀғ</a>
 ✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
 ✯ ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3
 ✯ ᴅᴀᴛᴀ ʙᴀsᴇ: ᴍᴏɴɢᴏ ᴅʙ
 ✯ ʙᴏᴛ sᴇʀᴠᴇʀ: ʜᴇʀᴏᴋᴏ
 ✯ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: v1.0.1 [ ʙᴇᴛᴀ ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- ᴇᴠᴀ ᴍᴀʀɪᴀ ɪs ᴀ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. 
-- sᴏᴜʀᴄᴇ - https://github.com/EvamariaTG/EvaMaria  
+- ᴘᴏᴏᴊᴀ ʜᴇɢᴅᴇ ɪs ɴᴏᴛ ᴀ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. 
 
 <b>ᴅᴇᴠs:</b>
-- <a href=https://t.me/TeamEvamaria>ᴛᴇᴀᴍ ᴇᴠᴀ ᴍᴀʀɪᴀ</a>"""
+- <a href=https://t.me/Gw_links></a>ᴛᴇᴀᴍ ɢᴡʟɪɴᴋs"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Pooja hegde will respond whenever a keyword is found the message
