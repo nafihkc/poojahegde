@@ -1,7 +1,7 @@
 class script(object):
-    START_TXT = """ok.. {},
+    START_TXT = """𝑯𝒆𝒚.. {},
 
- Hmm.. wtf you, why you started me? Iam a manual filter bot and closed source 😁"""
+ 𝑰𝒂𝒎 𝒂𝒏 𝒖𝒏𝒍𝒊𝒎𝒊𝒕𝒆𝒅 𝒎𝒂𝒏𝒖𝒂𝒍 𝒇𝒊𝒍𝒕𝒆𝒓 𝒃𝒐𝒕, 𝒚𝒐𝒖 𝒄𝒂𝒏'𝒕 𝒂𝒅𝒅 𝒎𝒆 𝒕𝒐 𝒈𝒓𝒐𝒖𝒑 𝒐𝒓 𝒇𝒊𝒏𝒅 𝒔𝒐𝒖𝒓𝒄𝒆 𝒄𝒐𝒅𝒆, 𝒔𝒐 𝒅𝒐𝒏'𝒕 𝒘𝒂𝒔𝒕𝒆 𝒚𝒐𝒖'𝒓𝒆 𝒕𝒊𝒎𝒆 (𝒎𝒚 𝒅𝒚𝒏𝒐)"""
     HELP_TXT = """ʜᴇʟʟᴏ {}
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs."""
     ABOUT_TXT = """✯ ᴍʏ ɴᴀᴍᴇ: {}
