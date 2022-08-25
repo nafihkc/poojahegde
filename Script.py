@@ -1,18 +1,18 @@
 class script(object):
-    START_TXT = """ʜᴇʟʟᴏ {},
+    START_TXT = """ok.. {},
 
-ɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ + ᴍᴏᴠɪᴇ sᴇᴀʀᴄʜ + ᴍᴀɴᴜᴀʟ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ʏᴏᴜ ᴄᴀɴ sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ᴠɪᴀ ɪɴʟɪɴᴇ. ɪ ᴄᴀɴ ᴀʟsᴏ ᴀᴅᴅ ꜰɪʟᴛᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ 😌"""
+ Hmm.. wtf you, why you started me? Iam a manual filter bot and closed source 😁"""
     HELP_TXT = """ʜᴇʟʟᴏ {}
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs."""
     ABOUT_TXT = """✯ ᴍʏ ɴᴀᴍᴇ: {}
-✯ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/althafser>ᴀʟᴛʜᴀғ</a>
+✯ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/puthiyapadamott>Group</a>
 ✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
 ✯ ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3
 ✯ ᴅᴀᴛᴀ ʙᴀsᴇ: ᴍᴏɴɢᴏ ᴅʙ
 ✯ ʙᴏᴛ sᴇʀᴠᴇʀ: ʜᴇʀᴏᴋᴏ
 ✯ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: v1.0.1 [ ʙᴇᴛᴀ ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- ᴘᴏᴏᴊᴀ ʜᴇɢᴅᴇ ɪs ɴᴏᴛ ᴀ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. 
+- Chris evans ɪs ɴᴏᴛ ᴀ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. 
  
 <b>ᴅᴇᴠs:</b>
 - <a href=https://t.me/Gw_links>ᴛᴇᴀᴍ ɢᴡʟɪɴᴋs</a>"""
@@ -21,7 +21,7 @@ class script(object):
 - Filter is the feature were users can set automated replies for a particular keyword and Pooja hegde will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Pooja hegde should have admin privillage.
+1. Cc should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -32,7 +32,7 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- pooja hegde Supports both url and alert inline buttons.
+- cc Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
