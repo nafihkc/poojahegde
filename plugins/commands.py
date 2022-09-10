@@ -42,10 +42,10 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('⋆ ͢ ̶ͥ ̶ ̶ͣ ͓ ̶ͫ𝘾𝘼𝙋𝙏𝘼𝙄𝞟»⃟🇺🇸 ℡', url=f'https://t.me/Captain_of_Tele_Gram')
+            InlineKeyboardButton('🎬 𝗢𝘁𝘁 𝗨𝗽𝗱𝗮𝘁𝗲𝘀', url=f'https://t.me/Captain_of_Tele_Gram')
             ],[
             InlineKeyboardButton('➟ 𝑺𝒆𝒂𝒓𝒄𝒉', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('✵ 𝑴𝒐𝒗𝒊𝒆 𝒈𝒓𝒐𝒖𝒑', url='https://t.me/puthiyapadamott')
+            InlineKeyboardButton('✵ 𝑴𝒐𝒗𝒊𝒆 𝒈𝒓𝒐𝒖𝒑', url='https://t.me/+SWqQlWs_sAkyNTJl')
             ],[
             InlineKeyboardButton('❍ 𝑯𝒆𝒍𝒑', callback_data='help'),
             InlineKeyboardButton('⌫ 𝑨𝒃𝒐𝒖𝒕', callback_data='about')
@@ -88,7 +88,7 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('⋆ ͢ ̶ͥ ̶ ̶ͣ ͓ ̶ͫ𝘾𝘼𝙋𝙏𝘼𝙄𝞟»⃟🇺🇸 ℡', url=f'https://t.me/Captain_of_Tele_Gram')
+            InlineKeyboardButton('🎬 𝗢𝘁𝘁 𝗨𝗽𝗱𝗮𝘁𝗲𝘀', url=f'https://t.me/+SWqQlWs_sAkyNTJl')
             ],[
             InlineKeyboardButton('➟ 𝑺𝒆𝒂𝒓𝒄𝒉', switch_inline_query_current_chat=''),
             InlineKeyboardButton('✵ 𝑴𝒐𝒗𝒊𝒆 𝒈𝒓𝒐𝒖𝒑', url='https://t.me/puthiyapadamott')
